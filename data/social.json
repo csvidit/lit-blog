@@ -1,19 +1,14 @@
 {
   "links": [
     {
-      "name": "medium",
-      "url": "https://medium.com/vidit-khandelwal",
-      "image": "images/social/twitter.svg"
-    },
-    {
-      "name": "github",
-      "url": "https://github.com/zerostaticthemes",
-      "image": "images/social/github.svg"
-    },
-    {
       "name": "linkedin",
-      "url": "https://www.linkedin.com",
+      "url": "https://linkedin.com/in/viditkhandelwal",
       "image": "images/social/linkedin.svg"
+    },
+    {
+      "name": "main portfolio",
+      "url": "https://www.viditkhandelwal.com",
+      "image": "images/social/vk.svg"
     }
   ]
 }

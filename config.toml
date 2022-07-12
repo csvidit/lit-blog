@@ -1,12 +1,10 @@
 baseURL = 'http://example.org/'
 languageCode = 'en-us'
-title = 'Vidit Khandelwal - Literature'
+title = 'VIDIT KHANDELWAL LIT.'
 theme = "hugo-winston-theme"
 
 [params]
   google_analytics_id = ""
-  twitter_handle = "@viditkh"
-  github_handle = "@csvidit"
   showAuthorOnHomepage = true
   showAuthorOnPosts = false
   showPostsOnHomepage = false
